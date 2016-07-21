@@ -28,3 +28,4 @@ Angel
 Loki
 Luna
 Tiger
+Snickers
