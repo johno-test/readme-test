@@ -25,3 +25,4 @@ Willow
 Pumpkin
 Felix
 Angel
+Loki
